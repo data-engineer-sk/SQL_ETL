@@ -11,3 +11,6 @@
 
 ## Data Schema
 ![ETL Data Schema](https://github.com/data-engineer-sk/SQL_ETL/blob/main/Schema.png) 
+
+## Sample for SQL Transformation Process
+![Sample Codes for SQL Transformation Process](https://github.com/data-engineer-sk/SQL_ETL/blob/main/SQL_Code_Fragment.png)
